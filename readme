@@ -1,0 +1,25 @@
+📌 Project Overview
+This project analyzes railway train schedules to extract key insights, such as the number of trains per source station, train frequency per day, and overall trends in railway operations. The dataset is cleaned, processed, and visualized using Python, Pandas, Matplotlib, and Seaborn.
+
+🔍 Features & Analysis
+Data Cleaning: Handles missing values, standardizes column names, and formats the day-wise train schedule.
+Statistical Overview: Provides key statistics on the total number of trains, unique stations, and common routes.
+Visualizations:
+Top 20 Source Stations by Train Count (Horizontal Bar Chart)
+Train Frequency by Day of the Week (Fixed Overlapping Issues)
+Insights & Findings: Identifies peak train traffic areas and busiest days, helping in railway traffic management.
+🛠️ Technologies Used
+Python
+Pandas (Data Processing)
+Matplotlib & Seaborn (Data Visualization)
+📂 Dataset
+The dataset used contains train schedules, including details on source and destination stations, operating days, and train counts.
+
+🚀 How to Run
+Upload the Railway_info.csv dataset in the script.
+Run the script in Google Colab or a local Python environment.
+View the statistical insights and visualizations generated.
+📊 Key Takeaways
+Certain stations have significantly higher train traffic.
+Train frequency varies across different days of the week.
+Potential optimizations can be made in railway scheduling based on demand
